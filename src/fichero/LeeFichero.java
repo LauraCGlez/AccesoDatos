@@ -9,6 +9,7 @@ public class LeeFichero {
 
     public static void main(String[] args) {
 
+        //PARA PROBAR EL CODIGO SOLO SE NECESITA CAMBIAR LA RUTA DEL FICHERO
         File f = new File("/home/lauracglez/Desktop/nuevoFichero");
 
         try {
